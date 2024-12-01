@@ -1,0 +1,26 @@
+# main links links
+main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "News"
+    url: "/#news"
+
+  - title: "Publications"
+    url: "/#publications"
+
+  - title: "Teaching"
+    url: "/teaching.html"
+
+  - title: "Group"
+    url: "/group.html"
+
+
+  # - title: "Internships"
+  #   url: "/#internships"
+
+  # - title: "Awards"
+  #   url: "/#awards"
+
+  # - title: "CV"
+  #   url: "/files/Xiaotian_CV.pdf"
