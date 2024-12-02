@@ -31,8 +31,8 @@ I am a Lecturer in the Department of Creative Technologies, Faculty of Computing
 
 # News
 - *2024.09*:  Excited to join Air University, Islamabad as a Lecturer!
-- *2024.09*: My [LLM Enthusiasm](https://huggingface.co/spaces?sort=trending&search=tahirsher) may be see on HuggingFace!
-- *2024.09*: Excited to Uplaod my LLM Journey and Projects in Hackathons on [LLM Enthusiasm](https://www.youtube.com/@Generative_AI_Enthusiast)) Youtube Channel!
+- *2024.09*: My [LLM Enthusiasm](https://huggingface.co/spaces?sort=trending&search=tahirsher) may be see on HuggingFace Spaces!
+- *2024.09*: Excited to Uplaod my LLM Journey and Projects in Hackathons on [Generative_AI_Enthusiast](https://www.youtube.com/@Generative_AI_Enthusiast) Youtube Channel!
 
 # Publications
 
