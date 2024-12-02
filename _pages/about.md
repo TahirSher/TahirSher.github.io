@@ -30,22 +30,25 @@ I am a Lecturer in the Department of Creative Technologies, Faculty of Computing
 
 
 # News
-- *2024.11*:  One paper on [Graph Convolution≈Mixup](https://openreview.net/forum?id=koC6zyaj73) is selected as Oral Presentation at LoG2024 TMLR Track!
-- *2024.08*:  One paper on [Understanding Graph Convolution](https://openreview.net/forum?id=koC6zyaj73) accepted by TMLR!
-- *2024.08*:  Excited to join Case Western Reserve University as an assistant professor!
-- *2024.07*:  I am excited to start my MLsys internship at [Iambic Therapeutics](https://www.iambic.ai/)
-- *2024.06*:  [LLM Maybe LongLM](https://arxiv.org/abs/2401.01325) has been selected as <span style="color:red">Spotlight (3.5%)</span> at ICML2024!
-- *2024.05*:  [One paper](https://arxiv.org/pdf/2312.15194) is accepted by ACL2024!
-- *2024.04*:  [LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning](https://arxiv.org/abs/2401.01325) is accepted by ICML2024!
-- *2024.04*: My [LiteLLaMa](https://huggingface.co/ahxt/LiteLlama-460M-1T) has been downloaded over 230K times on HuggingFace!
-- *2024.04*: Honored to receive the [Jane Street Graduate Research Fellowship Award Honorable Mention](https://www.janestreet.com/join-jane-street/programs-and-events/grf-profiles-2024/).
-- *2024.03*: Implemented [Triton](https://github.com/openai/triton) based flash self-extend. Please try [FlashSelfExtend](https://github.com/datamllab/LongLM/blob/master/self_extend_patch/selfextend_flash_attn_triton.py) to enjoy our self-extend!
-- *2024.01*: One paper on [Fairness Benchmark](https://arxiv.org/pdf/2306.09468.pdf) accepted by ICLR2024!
-- *2024.01*: Our [Survey on LLMs](https://arxiv.org/abs/2304.13712) accepted by TKDD!
-- *2024.01*: New preprint [LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning](https://arxiv.org/abs/2401.01325)!
+#- *2024.11*:  One paper on [Graph Convolution≈Mixup](https://openreview.net/forum?id=koC6zyaj73) is selected as Oral Presentation at LoG2024 TMLR Track!
+#- *2024.08*:  One paper on [Understanding Graph Convolution](https://openreview.net/forum?id=koC6zyaj73) accepted by TMLR!
+- *2024.09*:  Excited to join Air University, Islamabad as a Lecturer!
+- *2024.09*: My [LLM Enthusiasm](https://huggingface.co/spaces?sort=trending&search=tahirsher) may be see on HuggingFace!
+- *2024.09*: Excited to Uplaod my LLM Journey and Projects in Hackathons on [LLM Enthusiasm](https://www.youtube.com/@Generative_AI_Enthusiast)) Youtube Channel!
+#- *2024.09*: My [LLM Enthusiasm](https://huggingface.co/spaces?sort=trending&search=tahirsher) may be see on HuggingFace!
+#- *2024.07*:  I am excited to start my MLsys internship at [Iambic Therapeutics](https://www.iambic.ai/)
+#- *2024.06*:  [LLM Maybe LongLM](https://arxiv.org/abs/2401.01325) has been selected as <span style="color:red">Spotlight (3.5%)</span> at ICML2024!
+#- *2024.05*:  [One paper](https://arxiv.org/pdf/2312.15194) is accepted by ACL2024!
+#- *2024.04*:  [LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning](https://arxiv.org/abs/2401.01325) is accepted by ICML2024!
+#- *2024.04*: My [LiteLLaMa](https://huggingface.co/ahxt/LiteLlama-460M-1T) has been downloaded over 230K times on HuggingFace!
+#- *2024.04*: Honored to receive the [Jane Street Graduate Research Fellowship Award Honorable Mention](https://www.janestreet.com/join-jane-street/programs-and-events/grf-profiles-2024/).
+#- *2024.03*: Implemented [Triton](https://github.com/openai/triton) based flash self-extend. Please try [FlashSelfExtend](https://github.com/datamllab/LongLM/blob/master/self_extend_patch/selfextend_flash_attn_triton.py) to enjoy our self-extend!
+#- *2024.01*: One paper on [Fairness Benchmark](https://arxiv.org/pdf/2306.09468.pdf) accepted by ICLR2024!
+#- *2024.01*: Our [Survey on LLMs](https://arxiv.org/abs/2304.13712) accepted by TKDD!
+#- *2024.01*: New preprint [LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning](https://arxiv.org/abs/2401.01325)!
 
 
-
+<!---
 - <details> <summary>More</summary>
   <ul>
     <li><em>2023.12:</em> One paper accepted by AAAI2024-SRRAI.</li>
@@ -65,6 +68,7 @@ I am a Lecturer in the Department of Creative Technologies, Faculty of Computing
   </ul>
 
   </details>
+  --->
 
 
 
