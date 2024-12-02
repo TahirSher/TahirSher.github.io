@@ -20,7 +20,7 @@ main:
   #   url: "/#internships"
 
   - title: "Awards"
-    url: "//files/Awards.pdf"
+    url: "/files/Awards.pdf"
 
   # - title: "CV"
   #   url: "/files/Tahir_CV.pdf"
