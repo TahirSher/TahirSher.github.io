@@ -1,16 +1,16 @@
 ---
-permalink: /csds600.html
-title: "teaching_2024fall_csds600"
+permalink: /CourseCode-1285.html
+title: "teaching_2024fall_/CourseCode-1285"
 excerpt: ""
 author_profile: true
 ---
 
 
-# **CSDS600: Large Language Models**
+# **CourseCode-1285: Probability and Statistics**
 
-Xiaotian (Max) Han
+Tahir Sher Bhatti
 
-Fall 2024, M/W 3:20–4:35 PM
+Fall 2024, M/F 08:00–02:40 PM
 
 
 ## **Course Description**
