@@ -18,6 +18,6 @@ author_profile: true
 <span class='anchor' id='about-me'></span>
 
 
-[Awards](/files/Awards.pdf).
+I was graduated from International Islamic University, Islamabat in 2012. My Bachelors is in Mathematics and was awarded with Gold Medal, Position Certificate and Distinction certificate. My [Awards](/files/Awards.pdf) can see here.
  
 ---
