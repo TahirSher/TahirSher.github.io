@@ -5,4 +5,4 @@ excerpt: ""
 author_profile: true
 ---
 
-- 2024 Fall [CSDS600: Large Language Models](/csds600)
+- 2024 Fall [Course Code-1285: Probability and Statistics](/CourseCode-1285)
