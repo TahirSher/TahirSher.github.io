@@ -38,15 +38,12 @@ I am a Lecturer in the Department of Creative Technologies, Faculty of Computing
 
 - ``CMC2022`` COVID-19 Outbreak Prediction by Using Machine Learning Algorithms  [[PDF]]([https://scholar.google.com/citations?view_op=view_citation&hl=en&user=eIIFkLAAAAAJ&citation_for_view=eIIFkLAAAAAJ:d1gkVwhDpl0C]
   - **Tahir Sher**, Abdul Rehman, Dongsun Kim
-  - CMC2022
 
 - ``CMC2023`` Exploiting Data Science for Measuring the Performance of Technology Stocks [[PDF]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=eIIFkLAAAAAJ&citation_for_view=eIIFkLAAAAAJ:9yKSN-GCB0IC)
   - **Tahir Sher**, Abdul Rehman, Dongsun Kim, Imran Ihsan
-  - CMC2023
 
 - ``PIMRC2023`` Defending federated learning from backdoor attacks: Anomaly-aware fedavg with layer-based aggregation [[PDF]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=eIIFkLAAAAAJ&citation_for_view=eIIFkLAAAAAJ:2osOgNQ5qMEC) 
   - Habib Ullah Manzoor, Ahsan Raza Khan, **Tahir Sher**, Wasim Ahmad, Ahmed Zoha
-  - ICML2024
 
 # Preprints
 - Coming Soon...
