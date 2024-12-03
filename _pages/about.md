@@ -61,6 +61,7 @@ I am a Lecturer in the Department of Creative Technologies, Faculty of Computing
 
 # Internships (Hybrid)
 - *Jan. 2023 - Oct. 2023*, Communicationa and Sensing Research Lab, Scotland, UK.
+- *Sep. 2021 - Nov. 2023*, Software Technology Research Centre, Kyungpook National University, South Korea.
 
 
 # Awards & Honors
