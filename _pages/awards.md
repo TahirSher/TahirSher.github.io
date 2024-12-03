@@ -1,6 +1,6 @@
 ---
 permalink: /awards
-title: "Homepage"
+title: "Awards"
 excerpt: ""
 author_profile: true
 #redirect_from: 
