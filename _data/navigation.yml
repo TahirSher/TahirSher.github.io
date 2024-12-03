@@ -16,7 +16,7 @@ main:
     url: "/group.html"
  
   - title: "Awards & Honors"
-    url: "/#awards & honors"
+    url: "/files/Awards.pdf"
 
   # - title: "Internships"
   #   url: "/#internships"
