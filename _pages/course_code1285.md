@@ -22,8 +22,9 @@ This course provides an elementary introduction to probability and statistics wi
 
 * T. T. Soong, “Fundamentals of Probability & Statistics for Engineers” WILEY Publishers.
 * Pauls. S. Hoel "Introduction To Mathematical Statistics" WILEY Publishers.
+* José Unpingco, Python for Probability Statistics and Machine-Learning, Springer Cham.
+* Lecture Slides will be provided after each class.
 * Research papers will be provided.
-* Python for Probability Statistics and Machine-Learning, [PDF](https://Python-for-Probability-Statistics-And-Machine-Learning PDF (54.243.252.9))
 
 
 ## **Course Components & Grading Policy** 
@@ -40,7 +41,7 @@ Student's grades will be calculated according to the following components:
 * Final Exam (45%):
   * Portion of Statistics (10%)
   * Portion of Probability (25%)
-  * Project presentation (10%). 
+  * Sudo code, Project Report (10%). 
 
 Paper Presentation Format:
 - Select a paper from the provided list
@@ -82,7 +83,7 @@ Grading Criteria:
 | 6       | Uniform, binomial and multinomial distribution, hypergeometric, negative binomial and geometric distributions and their libraries in R / Python / MATLAB                                                                                                         |
 | 7      | Poisson distribution, continuous uniform distribution, concept of normal distribution, standard normal distribution                                                                                                                                                                                                                                                                                                                                                                                                 |
 | 8       | Probabilities under normal curve and applications of normal distribution, normal approximation to binomial distribution. Exponential distribution     |
-| 9       | Midterm Exams                                                                                                                                                                                                                                                               |
+| 9       | **Midterm Exams**                                                                                                                                                                                                                                                               |
 | 10       | Sampling distribution of mean, central limit theorem. Sampling distribution of the difference between two averages. Sampling distribution of variance                                                                                                                                                                                                                                                                                                         |
 | 11       | T and F distributions. Concept of estimation, unbiased estimation, interval estimation, confidence interval for mean and proportion                                                                                                                                                                                                                                                                                                                                                                                               |
 | 12       | Confidence Interval for the difference of two means and the difference of two proportions. Introduction to hypotheses testing                                                                                                  |
@@ -90,7 +91,7 @@ Grading Criteria:
 | 14       | Testing the difference of proportions. test of goodness of fit, test of independence. test of homogeneity, test for several proportions. Announcement of group projects                                                                                                                                                                   |
 | 15       | Simple linear regression, method of least squares. Finding regression coefficients and testing their significance, coefficient of determination , prediction and their libraries in R / Python / MATLAB                                                                                                                                                                                                                                   |
 | 16       | (Course Revision)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 10/21       | Final Exams                                                                                                            |
+| 17       | **Final Exams**                                                                                                            |
                                                                                                                                                                                                                                                                    
 
 
