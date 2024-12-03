@@ -30,12 +30,12 @@ I am a Lecturer in the Department of Creative Technologies, Faculty of Computing
 
 
 # News
-- *2024.09*: My [LLM Enthusiasm](https://huggingface.co/spaces?sort=trending&search=tahirsher) may be see on HuggingFace Spaces!
-- *2024.09*: Excited to Uplaod my LLM Journey and Projects in Hackathons on [Generative_AI_Enthusiast](https://www.youtube.com/@Generative_AI_Enthusiast) Youtube Channel!
-- *2024.09*:  Excited to join Air University, Islamabad as a Lecturer!
-- *2021.03*: Academic Auditor and Program Coordinator for Science subjects at FTTI, Islamabad
-- *2017.10*: Privaliged to serve at PAFAA, Risalpur
-- *2014.10*: Happy to Join School of Aeronautics, PAAK as a Instructor of Mathematics & Statistics!
+- *2024.09*: My [LLM Enthusiasm](https://huggingface.co/spaces?sort=trending&search=tahirsher) on HuggingFace Spaces!
+- *2024.09*: Thrilled to Uplaod my LLM Journey and Projects in Hackathons on [Generative_AI_Enthusiast_Youtube_Channel!](https://www.youtube.com/@Generative_AI_Enthusiast) 
+- *2024.09*: Excited to join Air University, Islamabad as a Lecturer!
+- *2021.03*: Academic Auditor and Research Coordinator for Science subjects at FTTI, Islamabad
+- *2017.10*: Privaliged to serve as a Researcher at PAFAA, Risalpur!
+- *2014.10*: Happy to Join School of Aeronautics, PAAK as a Lecturer of Mathematics & Statistics!
 - *2013.09*: Exited to Join College of Education as a Subject Specialist (Mathematics & Statistics), PAF, Peshawar!
 
 # Publications
