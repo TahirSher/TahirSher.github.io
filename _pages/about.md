@@ -52,17 +52,15 @@ I am a Lecturer in the Department of Creative Technologies, Faculty of Computing
 # Preprints
 - Coming Soon...
 
-
-# Educations
-- *Mar. 2025 - to date*, Ph.D., Looking a funded opportunity at South Korea, USA, Europe, Australia, China.
-- *Sept. 2021 - Jun. 2023*, Master Degree, Data Science, Air University, Islamabad.
-- *Sept. 2013 - Sep. 2014*, Bechelor Degree in Education, Air University, Islamabad.
-- *Sept. 2008 - Jun. 2012*, Bacheler Degree, Mathematics, International Islamic University, Islamabad.
-
 # Internships (Hybrid)
 - *Jan. 2023 - Oct. 2023*, Communicationa and Sensing Research Lab, Scotland, UK.
 - *Sep. 2021 - Nov. 2023*, Software Technology Research Centre, Kyungpook National University, South Korea.
 
+# Education
+- *Mar. 2025 - to date*, Ph.D., Looking a funded opportunity at South Korea, USA, Europe, Australia, China.
+- *Sept. 2021 - Jun. 2023*, Master Degree, Data Science, Air University, Islamabad.
+- *Sept. 2013 - Sep. 2014*, Bechelor Degree in Education, Air University, Islamabad.
+- *Sept. 2008 - Jun. 2012*, Bacheler Degree, Mathematics, International Islamic University, Islamabad.
 
 # Awards & Honors
 I was graduated from Department of Mathematics & Statistics, Faculty of Basic and Applied Science, International Islamic University, Islamabad in 2012 and achieved following [Awards](/files/Awards.pdf) and apprication certificates in professional journey.
@@ -82,4 +80,4 @@ I was graduated from Department of Mathematics & Statistics, Faculty of Basic an
 - **Session Chair:** Looking an opportunity
  
 ---
-Tahir Sher Bhatti
+**Tahir Sher Bhatti**
