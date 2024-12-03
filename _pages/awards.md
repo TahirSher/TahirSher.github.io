@@ -1,11 +1,11 @@
 ---
-permalink: /
+permalink: /awards
 title: "Homepage"
 excerpt: ""
 author_profile: true
 #redirect_from: 
- # - /about/
- # - /about.html
+ # - /awards/
+ # - /awards.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
