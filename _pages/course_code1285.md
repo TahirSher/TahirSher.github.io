@@ -23,7 +23,7 @@ This course provides an elementary introduction to probability and statistics wi
 * T. T. Soong, “Fundamentals of Probability & Statistics for Engineers” WILEY Publishers.
 * Pauls. S. Hoel "Introduction To Mathematical Statistics" WILEY Publishers.
 * Research papers will be provided.
-* Python for Probability Statistics and Machine-Learning, [https://Python-for-Probability-Statistics-And-Machine-Learning PDF (54.243.252.9)]
+* Python for Probability Statistics and Machine-Learning, [PDF](https://Python-for-Probability-Statistics-And-Machine-Learning PDF (54.243.252.9))
 
 
 ## **Course Components & Grading Policy** 
