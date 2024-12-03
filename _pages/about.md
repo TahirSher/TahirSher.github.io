@@ -60,7 +60,7 @@ I am a Lecturer in the Department of Creative Technologies, Faculty of Computing
 - *Sept. 2008 - Jun. 2012*, Bacheler Degree, Mathematics, International Islamic University, Islamabad.
 
 # Internships
-- No interships carried out yet
+- *Jan. 2023 - Oct 2023*, (Hybrid) Communicationa and Sensing Research Lab, Scotland UK.
 
 
 # Awards & Honors
