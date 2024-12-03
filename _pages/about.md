@@ -59,16 +59,16 @@ I am a Lecturer in the Department of Creative Technologies, Faculty of Computing
 - *Sept. 2013 - Sep. 2014*, Bechelor Degree in Education, Air University, Islamabad.
 - *Sept. 2008 - Jun. 2012*, Bacheler Degree, Mathematics, International Islamic University, Islamabad.
 
-# Internships
-- *Jan. 2023 - Oct. 2023*, (Hybrid) Communicationa and Sensing Research Lab, Scotland UK.
+# Internships (Hybrid)
+- *Jan. 2023 - Oct. 2023*, Communicationa and Sensing Research Lab, Scotland, UK.
 
 
 # Awards & Honors
 I was graduated from Department of Mathematics & Statistics, Faculty of Basic and Applied Science, International Islamic University, Islamabad in 2012 and achieved following [Awards](/files/Awards.pdf) and apprication certificates in professional journey.
 
-- Appriciation Certificate (Mar, 2024)
-- Appriciation Certificate (Oct, 2019)
-- Appriciation Certificate (Sep, 2017)
+- Appreciation Certificate (Mar, 2024)
+- Appreciation Certificate (Oct, 2019)
+- Appreciation Certificate (Sep, 2017)
 - Gold Medal (May, 2014)
 - Position Certificate (Apr, 2014)
 - Distinction Certificate (Feb, 2014 )
@@ -76,7 +76,7 @@ I was graduated from Department of Mathematics & Statistics, Faculty of Basic an
 
 
 # Professional Acitivities
-- **Reviewer:** IEEE (since Sep, 2014);
+- **Reviewer:** IEEE (since Sep, 2024);
 - **First International Symposium:** Participated and Member of Management Committee held at PAFAA, Risalpur (Feb, 2024)
 - **Session Chair:** Looking an opportunity
  
