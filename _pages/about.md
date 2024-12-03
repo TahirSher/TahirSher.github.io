@@ -59,6 +59,7 @@ I am a Lecturer in the Department of Creative Technologies, Faculty of Computing
 
 
 # Awards & Honors
+I was graduated from Department of Mathematics, Faculty of Basic and Applied Science, International Islamic University, Islamabad in 2012. My Bachelors is in Mathematics and was awarded with Gold Medal, Position Certificate and Distinction certificate. My [Awards](/files/Awards.pdf) are avaiable here.
 - Gold Medal (Bachelors)
 - Position Certificate (Bachelors)
 - Distinction Certificate (Bachelors)
