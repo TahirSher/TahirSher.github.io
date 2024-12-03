@@ -60,7 +60,7 @@ I am a Lecturer in the Department of Creative Technologies, Faculty of Computing
 - *Sept. 2008 - Jun. 2012*, Bacheler Degree, Mathematics, International Islamic University, Islamabad.
 
 # Internships
-- *Jan. 2023 - Oct 2023*, (Hybrid) Communicationa and Sensing Research Lab, Scotland UK.
+- *Jan. 2023 - Oct. 2023*, (Hybrid) Communicationa and Sensing Research Lab, Scotland UK.
 
 
 # Awards & Honors
@@ -77,7 +77,7 @@ I was graduated from Department of Mathematics & Statistics, Faculty of Basic an
 
 # Professional Acitivities
 - **Reviewer:** IEEE (since Sep, 2014);
-- **Reviewer:** Participated and Member of Management Committee in the First International Symposium held at PAFAA, Risalpur (Feb, 2024)
+- **First International Symposium:** Participated and Member of Management Committee held at PAFAA, Risalpur (Feb, 2024)
 - **Session Chair:** Looking an opportunity
  
 ---
