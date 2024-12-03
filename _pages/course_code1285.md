@@ -59,13 +59,13 @@ Final Project Format:
 
 
 Grading Criteria:
-- Paper Presentation (30%):
+- Paper/ Project Presentation (20%):
    - Completeness and quality of the presentation (15%)
    - Average peer rating (15%)
 - Class Participation (10%):
    - Forms submitted for each paper presentation
-- Final Project (60%):
-   - Assessed the quality of the proposal, final report, and presentation.
+- Mid / Final Term Exams (70%):
+   - Assessed the quality of the content / concepts produced and presentation.
 
 
 
