@@ -30,9 +30,13 @@ I am a Lecturer in the Department of Creative Technologies, Faculty of Computing
 
 
 # News
-- *2024.09*:  Excited to join Air University, Islamabad as a Lecturer!
 - *2024.09*: My [LLM Enthusiasm](https://huggingface.co/spaces?sort=trending&search=tahirsher) may be see on HuggingFace Spaces!
 - *2024.09*: Excited to Uplaod my LLM Journey and Projects in Hackathons on [Generative_AI_Enthusiast](https://www.youtube.com/@Generative_AI_Enthusiast) Youtube Channel!
+- *2024.09*:  Excited to join Air University, Islamabad as a Lecturer!
+- *2021.03*: Academic Auditor and Program Coordinator for Science subjects at FTTI, Islamabad
+- *2017.10*: Privaliged to serve at PAFAA, Risalpur
+- *2014.10*: Happy to Join School of Aeronautics, PAAK as a Instructor of Mathematics & Statistics!
+- *2013.09*: Exited to Join College of Education as a Subject Specialist (Mathematics & Statistics), PAF, Peshawar!
 
 # Publications
 
@@ -50,8 +54,9 @@ I am a Lecturer in the Department of Creative Technologies, Faculty of Computing
 
 
 # Educations
-- *Mar.2025  - to date*, Ph.D., Looking a funded opportunity at South Korea, Europe, Australia, USA.
+- *Mar. 2025 - to date*, Ph.D., Looking a funded opportunity at South Korea, USA, Europe, Australia, China.
 - *Sept. 2021 - Jun. 2023*, Master Degree, Data Science, Air University, Islamabad.
+- *Sept. 2013 - Sep. 2014*, Bechelor Degree in Education, Air University, Islamabad.
 - *Sept. 2008 - Jun. 2012*, Bacheler Degree, Mathematics, International Islamic University, Islamabad.
 
 # Internships
@@ -59,16 +64,21 @@ I am a Lecturer in the Department of Creative Technologies, Faculty of Computing
 
 
 # Awards & Honors
-I was graduated from Department of Mathematics, Faculty of Basic and Applied Science, International Islamic University, Islamabad in 2012. My Bachelors is in Mathematics and was awarded with Gold Medal, Position Certificate and Distinction certificate. My [Awards](/files/Awards.pdf) are avaiable here.
-- Gold Medal (Bachelors)
-- Position Certificate (Bachelors)
-- Distinction Certificate (Bachelors)
-- Partial Scholarship (Bachelors)
+I was graduated from Department of Mathematics & Statistics, Faculty of Basic and Applied Science, International Islamic University, Islamabad in 2012 and achieved following [Awards](/files/Awards.pdf) and apprication certificates in professional journey.
+
+- Appriciation Certificate (Mar, 2024)
+- Appriciation Certificate (Oct, 2019)
+- Appriciation Certificate (Sep, 2017)
+- Gold Medal (May, 2014)
+- Position Certificate (Apr, 2014)
+- Distinction Certificate (Feb, 2014 )
+- Partial Scholarship (2011-2012)
 
 
 # Professional Acitivities
-- **Reviewer** IEEE;
-- **Session Chair** Looking an opportunity
+- **Reviewer:** IEEE (since Sep, 2014);
+- **Reviewer:** Participated and Member of Management Committee in the First International Symposium held at PAFAA, Risalpur (Feb, 2024)
+- **Session Chair:** Looking an opportunity
  
 ---
 Tahir Sher Bhatti
