@@ -63,7 +63,7 @@ Grading Criteria:
    - Completeness and quality of the presentation (15%)
    - Average peer rating (15%)
 - Class Participation (10%):
-   - Forms submitted for each paper presentation (1% each, we will have over 10 presentations, you need to submit at least 10 forms)
+   - Forms submitted for each paper presentation
 - Final Project (60%):
    - Assessed the quality of the proposal, final report, and presentation.
 
