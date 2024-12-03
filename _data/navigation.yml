@@ -14,13 +14,14 @@ main:
 
   - title: "Group"
     url: "/group.html"
-
+ 
+  - title: "Awards"
+  #   url: "/#awards"
 
   # - title: "Internships"
   #   url: "/#internships"
 
-   - title: "Awards"
-  #   url: "/#awards"
+  
 
   # - title: "CV"
   #   url: "/files/Xiaotian_CV.pdf"
