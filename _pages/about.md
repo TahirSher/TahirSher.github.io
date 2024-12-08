@@ -30,8 +30,10 @@ I am a Lecturer in the Department of Creative Technologies, Faculty of Computing
 
 
 # News
-- *2024.09*: My [LLM Enthusiasm](https://huggingface.co/spaces?sort=trending&search=tahirsher) on HuggingFace Spaces!
-- *2024.09*: Thrilled to Uplaod my LLM Journey and Projects in Hackathons on [Generative_AI_Enthusiast_Youtube_Channel!](https://www.youtube.com/@Generative_AI_Enthusiast) 
+- *2024.12*: Our research article Graph Based COVID-19 Detection Using Conditional Generative Adversarial Network accepted at IEEE Access!
+- *2024.12*: We submitted two projects and won **(Second (Legal Consultant) & Sixth (Career Compass)** top positions in [Pak Angels Generative AI Heackathons]!(https://www.linkedin.com/posts/pakangels_pakangels-aspirepakistan-icodeguru-activity-7270723460388048896-Aoga/?utm_source=share&utm_medium=member_desktop)
+- *2024.11*: Thrilled to Uplaod my LLM Journey and Projects in Hackathons on [Generative_AI_Enthusiast_Youtube_Channel!](https://www.youtube.com/@Generative_AI_Enthusiast) 
+- *2024.10*: My [LLM Enthusiasm](https://huggingface.co/spaces?sort=trending&search=tahirsher) on HuggingFace Spaces!
 - *2024.09*: Excited to join Air University, Islamabad as a Lecturer!
 - *2021.03*: Academic Auditor and Research Coordinator for Science subjects at FTTI, Islamabad
 - *2017.10*: Privaliged to serve as a Researcher at PAFAA, Risalpur!
@@ -40,6 +42,8 @@ I am a Lecturer in the Department of Creative Technologies, Faculty of Computing
 
 # Publications
 
+- ``IEEE ACCESS2024`` Graph Based COVID-19 Detection Using Conditional Generative Adversarial Network  [[PDF]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=eIIFkLAAAAAJ&citation_for_view=eIIFkLAAAAAJ:d1gkVwhDpl0C)
+  - **Tahir Sher**, Abdul Rehman, Dongsun Kim
 - ``CMC2022`` COVID-19 Outbreak Prediction by Using Machine Learning Algorithms  [[PDF]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=eIIFkLAAAAAJ&citation_for_view=eIIFkLAAAAAJ:d1gkVwhDpl0C)
   - **Tahir Sher**, Abdul Rehman, Dongsun Kim
 
