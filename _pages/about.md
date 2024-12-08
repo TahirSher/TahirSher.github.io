@@ -42,7 +42,8 @@ I am a Lecturer in the Department of Creative Technologies, Faculty of Computing
 
 # Publications
 
-- ``IEEE ACCESS2024`` Graph Based COVID-19 Detection Using Conditional Generative Adversarial Network  [[PDF]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=eIIFkLAAAAAJ&citation_for_view=eIIFkLAAAAAJ:d1gkVwhDpl0C)
+- ``IEEE ACCESS2024`` Graph Based COVID-19 Detection Using Conditional Generative Adversarial Network  [[PDF]](/files
+/Covid_Paper.pdf)
   - **Tahir Sher**, Abdul Rehman, Dongsun Kim
 - ``CMC2022`` COVID-19 Outbreak Prediction by Using Machine Learning Algorithms  [[PDF]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=eIIFkLAAAAAJ&citation_for_view=eIIFkLAAAAAJ:d1gkVwhDpl0C)
   - **Tahir Sher**, Abdul Rehman, Dongsun Kim
