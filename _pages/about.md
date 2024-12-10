@@ -30,7 +30,7 @@ I am a Lecturer in the Department of Creative Technologies, Faculty of Computing
 
 
 # News
-- *2024.12*: We submitted our Project **Wellbeing Companion**](https://youtu.be/VNffDEyngYo?si=9QT0eceQMm5PEvpR) at Lokha`i International Healthcare Heackathon organised by Lablab.AI.  
+- *2024.12*: We submitted our Project [**Wellbeing Companion**](https://youtu.be/VNffDEyngYo?si=9QT0eceQMm5PEvpR) at Lokha`i International Healthcare Heackathon organised by Lablab.AI.  
 - *2024.12*: I am joyful after receiving [**Top Generative AI Application Developer Award**](https://credsverse.com/credentials/04f859e0-e1ad-4163-9bfd-bdb2fed697bc) from Pak Angels, Silicon Valley, California, USA!
 - *2024.12*: Our research article Graph Based COVID-19 Detection Using Conditional Generative Adversarial Network accepted at IEEE Access!
 - *2024.12*: We submitted two projects and won **(Second (Legal Consultant) & Sixth (Career Compass)** top positions in [Pak Angels Generative AI Heackathons](https://www.linkedin.com/posts/pakangels_pakangels-aspirepakistan-icodeguru-activity-7270723460388048896-Aoga/?utm_source=share&utm_medium=member_desktop)!
