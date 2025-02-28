@@ -20,7 +20,9 @@ redirect_from:
 
 Hi there!
 
-I am a Lecturer in the Department of Creative Technologies, Faculty of Computing and AI at Air University start form Fall 2024. Previously, I obtained my MS degree in the Department of Creative Technologies at <a href="https://www.au.edu.pk/" target="_blank">Air University</a> and was working at the Computational Linguistics Research Group under the supervision of Associate Prof. <a href="https://www.linkedin.com/in/imranihsan/" target="_blank"> Dr. Imran Ihsan </a> since 2021. My research interests lie in the general area of artifiicial intelligence, machine learning and data science, and recently Large Language Models (LLM). Here is my [CV](/files/Tahir_CV.pdf).
+I was a Lecturer in the Department of Creative Technologies, Faculty of Computing and AI at Air University start form Fall 2024. Previously, I obtained my MS degree in the Department of Creative Technologies at <a href="https://www.au.edu.pk/" target="_blank">Air University</a> and was working at the Computational Linguistics Research Group under the supervision of Associate Prof. <a href="https://www.linkedin.com/in/imranihsan/" target="_blank"> Dr. Imran Ihsan </a> from Sep, 2021 to Feb, 2025. My research interests lie in the general area of artifiicial intelligence, machine learning and data science, and recently Large Language Models (LLM). Here is my [CV](/files/Tahir_CV.pdf).
+
+However, I strated my PhD from Department of Artificial Intelligence, Korea University, South Korea and Working on AI in Healthcare, Generative AI and Automatic Speech Recognition Projects.
 
 ---
 
@@ -30,6 +32,7 @@ I am a Lecturer in the Department of Creative Technologies, Faculty of Computing
 
 
 # News
+- *2025.02*: I am Excited to join [**Speech and Language Processing Lab**](https://slpl.korea.ac.kr/members/), Korea University, Seoul Campus, Korea. 
 - *2024.12*: We submitted our Project [**Wellbeing Companion**](https://youtu.be/VNffDEyngYo?si=9QT0eceQMm5PEvpR) at Lokha`i International Healthcare Heackathon organised by Lablab.AI.  
 - *2024.12*: I am joyful after receiving [**Top Generative AI Application Developer Award**](https://credsverse.com/credentials/04f859e0-e1ad-4163-9bfd-bdb2fed697bc) from Pak Angels, Silicon Valley, California, USA!
 - *2024.12*: Our research article Graph Based COVID-19 Detection Using Conditional Generative Adversarial Network accepted at IEEE Access!
@@ -64,7 +67,7 @@ I am a Lecturer in the Department of Creative Technologies, Faculty of Computing
 - *Sep. 2021 - Nov. 2023*, Software Technology Research Centre, Kyungpook National University, South Korea.
 
 # Education
-- *Mar. 2025 - to date*, Ph.D., Looking a funded opportunity at South Korea, USA, Europe, Australia, China.
+- *Mar. 2025 - to date*, Ph.D., Artificail Intelligence, Speech and Language Processing Lab, South Korea.
 - *Sept. 2021 - Jun. 2023*, Master Degree, Data Science, Air University, Islamabad.
 - *Sept. 2013 - Sep. 2014*, Bechelor Degree in Education, Air University, Islamabad.
 - *Sept. 2008 - Jun. 2012*, Bacheler Degree, Mathematics, International Islamic University, Islamabad.
